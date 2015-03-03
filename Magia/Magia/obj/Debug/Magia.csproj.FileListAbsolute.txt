@@ -1,0 +1,5 @@
+c:\users\l\documents\visual studio 2010\Projects\Magia\Magia\bin\Magia.dll
+c:\users\l\documents\visual studio 2010\Projects\Magia\Magia\bin\Magia.pdb
+c:\users\l\documents\visual studio 2010\Projects\Magia\Magia\obj\Debug\ResolveAssemblyReference.cache
+c:\users\l\documents\visual studio 2010\Projects\Magia\Magia\obj\Debug\Magia.dll
+c:\users\l\documents\visual studio 2010\Projects\Magia\Magia\obj\Debug\Magia.pdb
